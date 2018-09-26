@@ -47,5 +47,8 @@ def bari(x,y):
 
     kiskibari+=1
 
+
 onscreenclick(bari)
+
+
 done()
